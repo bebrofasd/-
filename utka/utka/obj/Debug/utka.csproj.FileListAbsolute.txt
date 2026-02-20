@@ -1,0 +1,12 @@
+C:\C#\utka\utka\bin\Debug\utka.exe.config
+C:\C#\utka\utka\bin\Debug\utka.exe
+C:\C#\utka\utka\bin\Debug\utka.pdb
+C:\C#\utka\utka\obj\Debug\utka.csproj.AssemblyReference.cache
+C:\C#\utka\utka\obj\Debug\utka.Form1.resources
+C:\C#\utka\utka\obj\Debug\utka.Properties.Resources.resources
+C:\C#\utka\utka\obj\Debug\utka.csproj.GenerateResource.cache
+C:\C#\utka\utka\obj\Debug\utka.csproj.CoreCompileInputs.cache
+C:\C#\utka\utka\obj\Debug\utka.exe
+C:\C#\utka\utka\obj\Debug\utka.pdb
+C:\C#\utka\utka\obj\Debug\Interop.WMPLib.dll
+C:\C#\utka\utka\obj\Debug\utka.csproj.ResolveComReference.cache
